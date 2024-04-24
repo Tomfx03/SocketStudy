@@ -56,9 +56,9 @@ Socket programming finds applications in various domains, including web developm
 ## PROGRAM: 
 
 ```
-DEVELOPED BY : ANU RADHA N
-REG NO : 212223230018
-DEPT : AI&DS - B.TECH
+DEVELOPED BY : TOM FRANCIES XAVIOUR L
+REG NO : 212223110060
+DEPT : IOT
 ```
 
 ## CLIENT :
